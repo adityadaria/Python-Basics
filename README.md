@@ -1,4 +1,4 @@
-# Python Workshop
+# Python Workshop by Aditya Daria
 
 Basics of Python along with Data Science Libraries
 
